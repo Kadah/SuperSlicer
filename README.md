@@ -109,3 +109,4 @@ Slic3r is licensed under the _GNU Affero General Public License, version 3_.
 Slic3r was created by Alessandro Ranellucci with the help of many other contributors.
 
 The _GNU Affero General Public License, version 3_ ensures that if you **use** any part of this software in any way (even behind a web server), your software must be released under the same license.
+
